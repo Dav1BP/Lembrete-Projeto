@@ -43,3 +43,10 @@ section{
     font-family: "Poppins", sans-serif;
     margin-top:20px;
 }
+
+@media (max-width: 400px){
+    .cardinfo{
+        font-size:12px;
+        padding:30px;
+    }
+}
